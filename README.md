@@ -21,11 +21,10 @@ Contact
 ==================
 github: [github.com/SeraphimSerapis][github]<br/>
 Twitter: [@SeraAndroid][twitter]<br/>
-Mail: [tmesserschmidt@paypal.com][mail]
+Mail: <tmesserschmidt@paypal.com>
 
 [github]: https://github.com/SeraphimSerapis
 [twitter]: https://twitter.com/seraandroid
-[mail]: tmesserschmidt@paypal.com
 [l1]: http://www.andyjarrett.co.uk/blog/index.cfm/2011/12/21/layoutjade-for-Twitters-Bootstrap
 [l2]: https://gist.github.com/1771035
 [exp]: http://expressjs.com/guide.html
