@@ -3,13 +3,15 @@ Bootstrap for Jade
 
 Enables you to use the Node templating engine Jade for Bootstrap by delivering a layout.jade file and the needed includes.
 
-Special focus was made to match [Twitter's Bootstrap][bootstrap] 2.0.4 examples.
+Special focus was made to match [Twitter's Bootstrap][bootstrap] 2.2.2 examples.
 
 This project uses existing work from [Andy Jarett][l1] and [Dirk Krause][l2]
 
 Usage
 ==================
-To use this project you need [**Express**][exp] & [**Jade**][jade].
+To use this project you'll need [**Express**][exp] & [**Jade**][jade]. Installation can be done via with npm:
+
+	npm install
 
 Configuration is done by modifying the *app.js* & *routes/index.js* files.
 
