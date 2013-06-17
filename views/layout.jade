@@ -1,4 +1,4 @@
-!!!
+doctype 5
 html
   include inc/header
 
@@ -21,7 +21,7 @@ html
                   li
                     a(href='#{key}') #{val}
 
-    div.container!= body
-      include inc/footer
+    block content
+    include inc/footer
 
     include inc/scripts
