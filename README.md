@@ -19,8 +19,8 @@ The footer can be modified by changing *views/inc/footer.jade*.
 
 Contact
 ==================
-github: [github.com/SeraphimSerapis][github]<br/>
-Twitter: [@SeraAndroid][twitter]<br/>
+GitHub: [github.com/SeraphimSerapis][github]
+Twitter: [@SeraAndroid][twitter]
 Mail: <tmesserschmidt@paypal.com>
 
 [bootstrap]: http://twitter.github.com/bootstrap/
